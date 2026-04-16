@@ -59,7 +59,7 @@ Compares average installs and revenue between free and paid apps using a dual-ax
 ---
 
 ## Folder Structure
-
+```text
 index.html
 task_1_bubble_chart.html
 task_2_global_installs_by_category.html
